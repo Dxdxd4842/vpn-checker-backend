@@ -44,7 +44,7 @@ URLS_RU = [
 ]
 
 # Ссылка на твою папку NEW
-URLS_MY = [
+URLS_MY = ["https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/singbox/mix.json"
     "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/refs/heads/main/githubmirror/new/all_new.txt"
 ]
 
@@ -245,7 +245,7 @@ if __name__ == "__main__":
     ru_files = save_chunked(res_ru_clean, FOLDER_RU, "ru_white")
     euro_files = save_chunked(res_euro_clean, FOLDER_EURO, "my_euro")
 
-    GITHUB_USER_REPO = "kort0881/vpn-checker-backend"
+    GITHUB_USER_REPO = "Dxdxd4842/vpn-checker-backend"
     BRANCH = "main"
     BASE_URL_RU = f"https://raw.githubusercontent.com/{GITHUB_USER_REPO}/{BRANCH}/{BASE_DIR}/RU_Best"
     BASE_URL_EURO = f"https://raw.githubusercontent.com/{GITHUB_USER_REPO}/{BRANCH}/{BASE_DIR}/My_Euro"
@@ -262,6 +262,7 @@ if __name__ == "__main__":
         f.write("\n".join(subs_lines))
 
     print("=== SUCCESS: LISTS GENERATED ===")
+
 
 
 
