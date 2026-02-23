@@ -53,6 +53,7 @@ URLS_MY = ["https://raw.githubusercontent.com/itsyebekhe/PSG/main/subscriptions/
           "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/vmess.txt"
           "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/shadowsocks.txt"
           "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/trojan.txt"
+           "https://raw.githubusercontent.com/AbikusSudo/AetheriumSubs/refs/heads/main/docs/mega"
           ]
 
 EURO_CODES = {"NL", "DE", "FI", "GB", "FR", "SE", "PL", "CZ", "AT", "CH", "IT", "ES", "NO", "DK", "BE", "IE", "LU", "EE", "LV", "LT"}
@@ -269,6 +270,7 @@ if __name__ == "__main__":
         f.write("\n".join(subs_lines))
 
     print("=== SUCCESS: LISTS GENERATED ===")
+
 
 
 
