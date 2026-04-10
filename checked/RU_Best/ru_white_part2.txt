@@ -1,0 +1,3 @@
+vless://55fc1ef6-f7f0-006f-8cbe-3ddf51f10308@ru-1.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=3KYP4RMn23lihhNY9pCGBae5Po43ekj5nmsJ8SP3VyY&sid=dc98bf118a39b6eb&sni=store.ru-game.app#10423ms_BE_@vlesstrojan
+vless://55fc1ef6-f7f0-006b-8cbe-3ddf51f10308@ru-2.node.cis-game.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=3KYP4RMn23lihhNY9pCGBae5Po43ekj5nmsJ8SP3VyY&sid=dc98bf118a39b6eb&sni=cdn.ru-game.app#10607ms_BE_@vlesstrojan
+vless://e44c7a66-0d05-42bc-a37b-bfed2a4fbcc1@yandex-1.ultima.foundation:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sni=ads.x5.ru#20468ms_SE_@vlesstrojan
