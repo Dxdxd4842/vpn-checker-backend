@@ -1,9 +1,9 @@
 {
   "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=chrome&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw": {
     "alive": true,
-    "latency": 941,
-    "time": 1792795647.1424506,
-    "country": "BE"
+    "latency": 854,
+    "time": 1792866580.1058357,
+    "country": "SE"
   },
   "vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&fp=qq&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&security=reality&sid=23103e1e&sni=ya.ru&type=raw": {
     "alive": true,
@@ -593,29 +593,11 @@
     "time": 1792659812.0946102,
     "country": "ES"
   },
-  "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?encryption=none&extra=null&fp=firefox&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
-    "alive": true,
-    "latency": 1867,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
   "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
     "alive": true,
     "latency": 510,
     "time": 1792637065.5662408,
     "country": "LT"
-  },
-  "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?encryption=none&extra=null&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
-    "alive": true,
-    "latency": 1797,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?encryption=none&extra=null&host=summerculture.net&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
-    "alive": true,
-    "latency": 1825,
-    "time": 1792599811.7260826,
-    "country": "IT"
   },
   "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?encryption=none&extra=null&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
     "alive": true,
@@ -700,48 +682,6 @@
     "latency": 511,
     "time": 1792623382.193232,
     "country": "NO"
-  },
-  "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?encryption=none&extra=null&fp=firefox&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
-    "alive": true,
-    "latency": 571,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@46.243.235.6:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SPok5V2FC3pM6iTP7j2gpPQRqreGx73qvlWG1F2Efy0&security=reality&sni=passport.yandex.ru&type=raw": {
-    "alive": true,
-    "latency": 576,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=firefox&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp": {
-    "alive": true,
-    "latency": 475,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=edge&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp": {
-    "alive": true,
-    "latency": 443,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=safari&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp": {
-    "alive": true,
-    "latency": 447,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=chrome&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp": {
-    "alive": true,
-    "latency": 415,
-    "time": 1792599811.7260826,
-    "country": "DE"
-  },
-  "vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=edge&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp": {
-    "alive": true,
-    "latency": 416,
-    "time": 1792599811.7260826,
-    "country": "DE"
   },
   "vless://2c634977-584e-4e1f-b501-1b70c77a6743@37.18.14.43:2053?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=firefox&host=summerculture.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&sni=summerculture.net&type=xhttp": {
     "alive": true,
@@ -1114,5 +1054,41 @@
     "latency": 411,
     "time": 1792854566.0320504,
     "country": "FI"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.234:443?alpn=h2&encryption=none&extra=null&fp=firefox&host=caw-guard-1.harknmav.fun&mode=stream-one&path=%2Fapi%2Fv2%2Fupload%2F8a3f1c5be24d2854&security=tls&sni=caw-guard-1.harknmav.fun&type=xhttp": {
+    "alive": true,
+    "latency": 333,
+    "time": 1792866580.1058357,
+    "country": "SE"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.234:443?alpn=h2&encryption=none&extra=null&fp=ios&host=caw-guard-1.harknmav.fun&mode=stream-one&path=%2Fapi%2Fv2%2Fupload%2F8a3f1c5be24d2854&security=tls&sni=caw-guard-1.harknmav.fun&type=xhttp": {
+    "alive": true,
+    "latency": 295,
+    "time": 1792866580.1058357,
+    "country": "SE"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.102:443?alpn=h2&encryption=none&fp=chrome&mode=multi&security=tls&serviceName=%2Fv1%2Fsegment%2F8a3f1c5be24d2854%2FTun%7CFetch&sni=plw-guard-1.harknmav.fun&type=grpc": {
+    "alive": true,
+    "latency": 365,
+    "time": 1792866580.1058357,
+    "country": "SE"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.102:443?alpn=h2&encryption=none&fp=firefox&mode=multi&security=tls&serviceName=%2Fv1%2Fsegment%2F8a3f1c5be24d2854%2FTun%7CFetch&sni=plw-guard-1.harknmav.fun&type=grpc": {
+    "alive": true,
+    "latency": 268,
+    "time": 1792866580.1058357,
+    "country": "SE"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.30:443?alpn=h2&encryption=none&fp=firefox&mode=multi&security=tls&serviceName=%2Fv1%2Fsegment%2F8a3f1c5be24d2854%2FTun%7CFetch&sni=plw-guard-1.harknmav.fun&type=grpc": {
+    "alive": true,
+    "latency": 255,
+    "time": 1792866580.1058357,
+    "country": "SE"
+  },
+  "vless://c99063b9-e86f-4320-bd45-f7e1acdc0f87@91.215.40.30:443?alpn=h2&encryption=none&fp=qq&mode=multi&security=tls&serviceName=%2Fv1%2Fsegment%2F8a3f1c5be24d2854%2FTun%7CFetch&sni=plw-guard-1.harknmav.fun&type=grpc": {
+    "alive": true,
+    "latency": 253,
+    "time": 1792866580.1058357,
+    "country": "SE"
   }
 }
